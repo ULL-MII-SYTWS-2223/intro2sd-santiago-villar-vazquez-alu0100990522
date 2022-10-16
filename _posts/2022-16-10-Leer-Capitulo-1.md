@@ -1,3 +1,15 @@
+
+---
+title: "Informe Cap 1"
+excerpt_separator: "<!--more-->"
+categories:
+  - Post Formats
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
+
 El capítulo 1 empieza contando que es el desarrollo del sistema, donde nos indica que es recoger los requisitos del negocio, pasarlo por una serie de fases para poder trasladarlo a un sistema informático.
 
 El desarrollo de sistemas necesita cumplir los siguientes requisitos:
