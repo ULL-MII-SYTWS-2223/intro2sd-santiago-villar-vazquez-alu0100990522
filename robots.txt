@@ -1,1 +1,1 @@
-Sitemap: https://mmistakes.github.io/intro2sd-template/sitemap.xml
+Sitemap: https://mmistakes.github.io/intro2sd-santiago-villar-vazquez-alu0100990522/sitemap.xml
