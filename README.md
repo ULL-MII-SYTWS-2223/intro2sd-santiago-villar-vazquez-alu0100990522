@@ -3,3 +3,10 @@
 bundle install
 
 rake serve
+
+
+Despliegue del sitio web en github pages : https://ull-mii-sytws-2223.github.io/intro2sd-santiago-villar-vazquez-alu0100990522/
+
+Para añadir un post al documento deberemos añadir un nuevo archivo .md en la carperta _post con el formato AÑO/MES/DIA-NOMBRE.md
+
+Tambien se modifico el archivo _config.yml, donde cambiaremos el tema de la página modificando (minimal_mistakes_skin) y luego en (baseurl) modificaremos la ruta de nuestra web, asi como un poco el perfil del usuario que muestra. 
