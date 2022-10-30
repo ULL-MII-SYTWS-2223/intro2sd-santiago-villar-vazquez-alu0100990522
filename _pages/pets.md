@@ -14,4 +14,3 @@ Sample document listing for the collection `_pets`.
 {% endfor %}
 
 
-# Aqui iria el liquid
