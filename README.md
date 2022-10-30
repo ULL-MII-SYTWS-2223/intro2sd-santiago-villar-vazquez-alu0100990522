@@ -1,6 +1,6 @@
 ![Open in Codespaces](https://classroom.github.com/assets/open-in-codespaces-abfff4d4e15f9e1bd8274d9a39a0befe03a0632bb0f153d0ec72ff541cedbe34.svg)
 
-##Ejecutar el código
+## Ejecutar el código
 ```bash
 bundle install
 rake serve
@@ -9,11 +9,11 @@ rake serve
 ##Github pages
 Despliegue del sitio web en  : https://ull-mii-sytws-2223.github.io/intro2sd-santiago-villar-vazquez-alu0100990522/
 
-##Añadir post
+## Añadir post
 
 Para añadir un post al documento deberemos añadir un nuevo archivo .md en la carperta _post con el formato AÑO/MES/DIA-NOMBRE.md
 
-##Modificación de la configuración inicial
+## Modificación de la configuración inicial
 Tambien se modifico el archivo _config.yml, donde cambiaremos el tema de la página modificando (minimal_mistakes_skin) y luego en (baseurl) modificaremos la ruta de nuestra web, asi como un poco el perfil del usuario que muestra. 
 
 ## Netlify
