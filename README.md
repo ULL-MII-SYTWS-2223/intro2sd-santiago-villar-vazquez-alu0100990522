@@ -6,7 +6,7 @@ bundle install
 rake serve
 ```
 
-##Github pages
+## Github pages
 Despliegue del sitio web en  : https://ull-mii-sytws-2223.github.io/intro2sd-santiago-villar-vazquez-alu0100990522/
 
 ## Añadir post
