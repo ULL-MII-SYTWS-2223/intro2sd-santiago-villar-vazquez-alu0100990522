@@ -57,7 +57,7 @@ Se añadio el siguiente código al archivo pets en la carpeta _page
 
 ```bash
 {% for pet in site.pets %}
-    <h2>{{ pet.title }} </h2>   # - {{ pet.position }} 
+    <h2>{{ pet.title }} </h2>   
 {% endfor %}
 ```
 
