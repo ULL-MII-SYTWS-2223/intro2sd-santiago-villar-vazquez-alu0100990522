@@ -251,8 +251,7 @@ defaults:
       type: books
     values:
       layout: single
-      author_profile: true
-      share: true
+      author_profile: false
       comments: true
   # _pets
   - scope:
