@@ -20,3 +20,26 @@ Tendremos que hacer publico este repositorio github para poder conectarlocon net
 ![interfaz_gitpod](assets/images/netlify.PNG)
 
 
+Para la creacion de una nueva collection deberemos de crear una nueva carpeta , en nuestro caso sera _books y en el archivo _config.yml añadiremos lo siguiente
+
+```bash
+collections:
+  books:
+    output: true
+    permalink: /:collection/:path/
+    
+    
+  defaults:  
+    # _books
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comments: true
+
+```
+
+tambien deberemos de crear una nueva pagina en _pages para books.
