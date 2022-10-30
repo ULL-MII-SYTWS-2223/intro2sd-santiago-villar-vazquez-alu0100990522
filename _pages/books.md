@@ -1,6 +1,6 @@
 ---
-layout: collection
 title: "Books"
+layout: collection
 collection: books
 permalink: /books/
 author_profile: false
