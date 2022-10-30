@@ -199,6 +199,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  books:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -237,6 +240,15 @@ defaults:
   - scope:
       path: ""
       type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _books
+  - scope:
+      path: ""
+      type: books
     values:
       layout: single
       author_profile: true
