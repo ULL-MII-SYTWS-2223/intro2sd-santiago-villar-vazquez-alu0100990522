@@ -17,4 +17,6 @@ https://www.netlify.com/blog/2020/04/02/a-step-by-step-guide-jekyll-4.0-on-netli
 
 Tendremos que hacer publico este repositorio github para poder conectarlocon netlify, configurar como se despliega y lanzarlo
 
+![interfaz_gitpod](assets/images/netlify.PNG)
+
 
