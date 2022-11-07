@@ -61,6 +61,13 @@ Se añadio el siguiente código al archivo pets en la carpeta _page
 {% endfor %}
 ```
 
+## 404
+
+Se debe añadir un archivo 404.md a la carpeta principal del proyecto con el siguiente codigo inicial
+```bash
+
+```
+
 
 
 
