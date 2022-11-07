@@ -73,5 +73,5 @@ permalink: /404.html
 
 y luego todo el codigo html o md que quieras mostrar
 
-
+![interfaz_gitpod](assets/images/netlify.PNG)
 
