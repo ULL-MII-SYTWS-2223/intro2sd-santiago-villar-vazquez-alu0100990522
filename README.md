@@ -65,9 +65,13 @@ Se añadio el siguiente código al archivo pets en la carpeta _page
 
 Se debe añadir un archivo 404.md a la carpeta principal del proyecto con el siguiente codigo inicial
 ```bash
-
+---
+layout: default
+permalink: /404.html
+---
 ```
 
+y luego todo el codigo html o md que quieras mostrar
 
 
 
